@@ -22,7 +22,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a first microverse project . To master all of the tools and practices.
+**[Hello-Microverse]** is a first microverse project . To master all of the tools and practices.
 
 ## 🛠 Built With <a name="built-with"></a>
 
