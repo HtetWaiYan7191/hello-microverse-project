@@ -75,7 +75,7 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Htet Wai Yan**
 
 - GitHub: [@githubhandle](https://github.com/htetwaiyan7191)
 
@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/HtetWaiYan7191/hello-microverse-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
